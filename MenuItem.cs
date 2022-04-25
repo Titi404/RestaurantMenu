@@ -22,11 +22,19 @@ namespace RestaurantMenu
             Description = description;
             Category = category;
             IsNew = isNew;
+
         }
 
+        public override bool Equals(object? obj)
+        {
+            return obj is MenuItem item &&
+                   ItemName == item.ItemName;
+        }
 
-
-
+        public override string? ToString()
+        {
+            return ($"{ItemName} {Price} {Description} {Category} {IsNew}");
+        }
 
 
     }

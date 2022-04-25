@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\LC101\\VS\\0422\\restaurantMenu\\restaurantMenu.csproj",
+      "projectUniqueName": "E:\\LC101\\VS\\Repo\\0422\\restaurantMenu\\restaurantMenu.csproj",
       "projectName": "restaurantMenu",
-      "projectPath": "E:\\LC101\\VS\\0422\\restaurantMenu\\restaurantMenu.csproj",
+      "projectPath": "E:\\LC101\\VS\\Repo\\0422\\restaurantMenu\\restaurantMenu.csproj",
       "packagesPath": "C:\\Users\\Super\\.nuget\\packages\\",
-      "outputPath": "E:\\LC101\\VS\\0422\\restaurantMenu\\obj\\",
+      "outputPath": "E:\\LC101\\VS\\Repo\\0422\\restaurantMenu\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Super\\AppData\\Roaming\\NuGet\\NuGet.Config",
